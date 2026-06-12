@@ -1,3 +1,27 @@
+/*
+    Integrantes:
+    Brayan Matheus de Godoi Santos
+    RGM: 41964772
+
+    Julia Helena Buosi Teixeira 
+    RGM: 44061919
+
+    Luana Brotto 
+    RGM: 41940270
+
+    Othon Augusto Freitas Nascimento 
+    RGM: 41606124
+
+    Pedro Henrique Becker De Oliveira Felix 
+    RGM: 41805640
+
+    Victor Hugo Ribeiro da Silva 
+    RGM: 42520959
+
+    Walter Potma de Brito 
+    RGM: 43101607
+*/
+
 <?php
 declare(strict_types=1);
 
